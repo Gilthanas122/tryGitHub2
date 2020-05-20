@@ -1,6 +1,6 @@
 public class Count{
 
-	public void count(){
-		System.out.println("My age is " +1978)
+	public void count(int a, int b){
+		System.out.println("My age is " +a + b):
 }
 }
