@@ -4,6 +4,6 @@ public class Third {
     }
 
     public static void greet(){
-        sout("hi");
+        sout("hi there beautiful");
     }
 }
