@@ -3,7 +3,8 @@ public class Third {
         greet();
     }
 
-    public static void greet(){
-        sout("hi there beautiful");
+    public static void greet(String a){
+        sout"Hi there, beautiful "+ a);
+
     }
 }
