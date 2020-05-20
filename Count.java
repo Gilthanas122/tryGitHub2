@@ -1,6 +1,6 @@
 publi class Count{
 
-	public void count(){
-	System.out.println("Hello pityu");
+	public void count(int age){
+	System.out.println("My age is " + age);
 }
 }
